@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
-    "password": "",
+    "username": "pro-bot00",
+    "password": "borpro1",
     "type": "offline"
   },
   "server": {
     "ip" Harshal-ISFo.aternos.me
     "port":63255 ,
-    "version": "",
+    "version": "1.21.4",
     "try-creative": false
   },
   "position": {
