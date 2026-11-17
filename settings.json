@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip" Harshal-ISFo.aternos.me:
+    "ip" Harshal-ISFo.aternos.me
     "port":63255 ,
-    "version":1.21.4 "",
+    "version": "",
     "try-creative": false
   },
   "position": {
